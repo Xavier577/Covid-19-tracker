@@ -1,3 +1,9 @@
+# App Overview
+
+This is a react web app that displays the stats on covid-19. It connects to an api namelly disease.sh fetches the data from it and displays it in structured manner. It is made with react and using other libraries such as material-ui, chartjs and leaflets. TO view this app i have setup a github page here https://xavier577.github.io/covid-19-tracker/
+
+permalink: /index.html
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
