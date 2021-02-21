@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import "./App.css";
 import InfoBox from "./component/InfoBox/InfoBox";
 import numeral from "numeral";
-import { format } from "numeral";
 import Map from "./component/Map/Map";
 import LineGraph from "./component/LineGraph/lineGraph";
 import Table from "./component/Table/table";
@@ -12,7 +11,6 @@ import "leaflet/dist/leaflet.css";
 import {
   Card,
   CardContent,
-  Typography,
   FormControl,
   Select,
   MenuItem,
